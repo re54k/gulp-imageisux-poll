@@ -1,0 +1,32 @@
+{
+  "name": "gulp-imageisux-poll",
+  "version": "0.0.1",
+  "description": "Waiting till gulp-imageisux truly complete its work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/re54k/gulp-imageisux-mixin.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "imageisux",
+    "poll"
+  ],
+  "author": "re54k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/re54k/gulp-imageisux-mixin/issues"
+  },
+  "homepage": "https://github.com/re54k/gulp-imageisux-mixin#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "should": "^8.1.1"
+  }
+}
